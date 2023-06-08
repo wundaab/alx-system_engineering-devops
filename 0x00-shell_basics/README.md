@@ -4,3 +4,4 @@
 3-listfiles long format file list
 4-listmorefiles - list contents in long format including hidden files
 5-listfilesdigitonly - display IDs instead of names
+6-firstdirectory - create directory called my_first_direcotry in tmp
