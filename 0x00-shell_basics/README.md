@@ -6,3 +6,4 @@
 5-listfilesdigitonly - display IDs instead of names
 6-firstdirectory - create directory called my_first_direcotry in tmp
 7-movethatfile - move file betty to my_first_direcotry in tmp
+8-firstdelete - removes betty
